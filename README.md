@@ -1,4 +1,3 @@
-# meu_app_api
 Minha API
 Este projeto é parte do material didático da disciplina Desenvolvimento Full Stack Básico. O objetivo é criar um MVP ao longo das aulas da disciplina, demonstrando como desenvolver uma aplicação web completa utilizando Flask e SQLAlchemy.
 
